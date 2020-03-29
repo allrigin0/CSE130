@@ -1,2 +1,1 @@
-# CSE-130
-OS projects
+#OS projects
